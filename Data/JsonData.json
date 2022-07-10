@@ -1,0 +1,53 @@
+{
+  "customerPurchases": [
+    {
+      "customerCode": "CUS001",
+      "customerDesc": "Mac Ville",
+      "invoiceDate": "2022-07-10",
+      "invoiceNo": "INV0001",
+      "productName": "BOSCH Fitter",
+      "productQty": 1,
+      "productSalePrice": 250,
+      "productSaleDiscount": 20,
+      "productTotalAmount": 230,
+      "invoiceTotal": 230
+    },
+{
+      "customerCode": "CUS001",
+      "customerDesc": "Mac Ville",
+      "invoiceDate": "2022-07-10",
+      "invoiceNo": "INV0002",
+      "productName": "Miller Fitter",
+      "productQty": 2,
+      "productSalePrice": 60,
+      "productSaleDiscount": 20,
+      "productTotalAmount": 100,
+      "invoiceTotal": 100
+    },
+
+{
+      "customerCode": "CUS002",
+      "customerDesc": "V Inc pvt",
+      "invoiceDate": "2022-07-20",
+      "invoiceNo": "INV0001",
+      "productName": "Nice Mobile",
+      "productQty": 3,
+      "productSalePrice": 210,
+      "productSaleDiscount": 60,
+      "productTotalAmount": 570,
+      "invoiceTotal": 570
+    },
+{
+      "customerCode": "CUS002",
+      "customerDesc": "V Inc pvt",
+      "invoiceDate": "2022-07-15",
+      "invoiceNo": "INV0002",
+      "productName": "Cover Plastic",
+      "productQty": 1,
+      "productSalePrice": 90,
+      "productSaleDiscount": 0,
+      "productTotalAmount": 90,
+      "invoiceTotal": 90
+    }
+  ]
+}
